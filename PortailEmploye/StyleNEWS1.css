@@ -1,0 +1,47 @@
+﻿table {
+    width: 800px;
+    height: 250px;
+    border: 1px solid white;
+    padding-top: 200px;
+}
+
+    table tr {
+        width: 800px;
+        height: 200px;
+    }
+
+        table tr td {
+            width: 300px;
+            border: 5px solid;
+            padding: 20px;
+            border-color: gray;
+        }
+
+.zoom div {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    border-style: outset;
+}
+
+    .zoom div:hover {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+
+.T1 {
+    background-image: url(consulterNews.jpg);
+    background-size: 300px 203px;
+}
+
+.T2 {
+    background-image: url(imageNews.jpeg);
+    background-size: 300px 203px;
+}
+.A1{
+    border-top-color:white;
+    border-bottom-color:white;
+    border-left-color :gray;
+    border-right-color:gray;
+}

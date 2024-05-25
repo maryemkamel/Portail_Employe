@@ -1,0 +1,13 @@
+C:\Users\asbai\Desktop\PortailEmploye\PortailEmploye\bin\PortailEmploye.dll.config
+C:\Users\asbai\Desktop\PortailEmploye\PortailEmploye\bin\PortailEmploye.dll
+C:\Users\asbai\Desktop\PortailEmploye\PortailEmploye\bin\PortailEmploye.pdb
+C:\Users\asbai\Desktop\PortailEmploye\PortailEmploye\obj\Debug\PortailEmploye.csprojResolveAssemblyReference.cache
+C:\Users\asbai\Desktop\PortailEmploye\PortailEmploye\obj\Debug\PortailEmploye.dll
+C:\Users\asbai\Desktop\PortailEmploye\PortailEmploye\obj\Debug\PortailEmploye.pdb
+C:\Users\user\Desktop\PortailEmploye\PortailEmploye\bin\PortailEmploye.dll.config
+C:\Users\user\Desktop\PortailEmploye\PortailEmploye\bin\PortailEmploye.dll
+C:\Users\user\Desktop\PortailEmploye\PortailEmploye\bin\PortailEmploye.pdb
+C:\Users\user\Desktop\PortailEmploye\PortailEmploye\obj\Debug\PortailEmploye.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PortailEmploye\PortailEmploye\obj\Debug\PortailEmploye.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PortailEmploye\PortailEmploye\obj\Debug\PortailEmploye.dll
+C:\Users\user\Desktop\PortailEmploye\PortailEmploye\obj\Debug\PortailEmploye.pdb
